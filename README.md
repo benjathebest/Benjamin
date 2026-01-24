@@ -1,1 +1,32 @@
-# Benjamin
+# ¡Hola! Soy Benjamin 👋
+
+### Me apasiona crear soluciones tecnológicas que sean eficientes y fáciles de usar. Actualmente me enfoco en aprender y mejorar mis habilidades en la configuracion dentro de Minecraft Java/Bedrock.
+
+---
+
+## 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en: Glaciar NetWork
+- 🌱 Estoy aprendiendo: Fortaleciendo JavaScript
+- 💬 Pregúntame sobre: Todo
+- 📫 Cómo contactarme: Por Ahora el unico Metodo es Discord
+eazxflow
+---
+
+## 🛠️ Mis Tecnologías
+### Lenguajes y Herramientas
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
+
+## 📊 Mis Estadísticas de GitHub
+Aquí puedes ver un resumen de mi actividad:
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+## 🏆 Proyectos Destacados
+1. **[Glaciar NetWork]** - Glaciar Es una Tier List la cual se desarolla en mejorar y no querer demostrarle nada a nadie.
