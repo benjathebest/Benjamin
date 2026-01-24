@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en: Glaciar NetWork
+- 🔭 Actualmente estoy trabajando en: Cryndor NetWork
 - 🌱 Estoy aprendiendo: Fortaleciendo javascript
 - 💬 Pregúntame sobre: Todo
 - 📫 Cómo contactarme: Hasta Ahora Por Discord : eazxflow
@@ -30,3 +30,4 @@ Aquí puedes ver un resumen de mi actividad:
 
 ## 🏆 Proyectos Destacados
 1. **[Glaciar NetWork]** - Es una tierlist la cual se enfoca en mejorar y no demostrarle nada a nadie.
+2. **[Cryndor NetWork]** - Es un Servidor Lands el Cual Busca Crecer sin Importar lo que Cueste
