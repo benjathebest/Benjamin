@@ -20,11 +20,6 @@ eazxflow
 ![React]
 ---
 
-## 📊 Mis Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad:
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
 
 ---
 
