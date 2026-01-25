@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en: Cryndor NetWork
 - 🌱 Estoy aprendiendo: Fortaleciendo javascript
 - 💬 Pregúntame sobre: Todo
-- 📫 Cómo contactarme: Hasta Ahora Por Discord : eazxflow
+- 📫 Cómo contactarme: Hasta Ahora Por Discord : benjadev09
 
 ---
 
