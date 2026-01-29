@@ -1,4 +1,4 @@
-# ¡Hola! Soy Benjamin 👋
+# ¡Hola! Soy EazxFlow pero me Dicen Benja👋
 
 ### Me apasiona crear soluciones tecnológicas que sean eficientes y fáciles de usar. Actualmente me enfoco en aprender y mejorar mis habilidades en Minecraft java/bedrock.
 
@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en: Cryndor NetWork
 - 🌱 Estoy aprendiendo: Fortaleciendo javascript
 - 💬 Pregúntame sobre: Todo
-- 📫 Cómo contactarme: Hasta Ahora Por Discord : benjadev09
+- 📫 Cómo contactarme: Hasta Ahora Por Discord : pepinpepon09
 
 ---
 
