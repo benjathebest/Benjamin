@@ -19,13 +19,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ---
-
-## 📊 Mis Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad:
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=benjathebest&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=benjathebest&layout=compact&theme=radical)
-
 ---
 
 ## 🏆 Proyectos Destacados
